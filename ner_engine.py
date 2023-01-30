@@ -34,6 +34,7 @@ def process():
     return Response(json.dumps(result), status=200, headers={'content-type': 'application/json'})
 
 if __name__ == '__main__':
+    load_model(args)
     app.run(debug=False, host='0.0.0.0', port=5001)
     
 
