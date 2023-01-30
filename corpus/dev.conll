@@ -1,0 +1,239 @@
+-DOCSTART- -X- O
+
+эвлүүлдэг -X- _ B-PRODUCT_NAME
+зураг -X- _ I-PRODUCT_NAME
+1ш -X- _ B-SIZE
+
+эдийн -X- _ B-PRODUCT_NAME
+саван -X- _ I-PRODUCT_NAME
+шар -X- _ B-ADJ
+new -X- _ O
+ok -X- _ O
+200гр -X- _ B-SIZE
+9099 -X- _ O
+
+эклер -X- _ B-PRODUCT_NAME
+
+экос -X- _ B-BRAND_NAME
+-зөөлөн -X- _ I-BRAND_NAME
+ус -X- _ B-PRODUCT_NAME
+600гр -X- _ B-SIZE
+
+экос -X- _ B-BRAND_NAME
+зөөлөн -X- _ B-ADJ
+ус -X- _ B-PRODUCT_NAME
+1л -X- _ B-SIZE
+
+элсэн -X- _ B-PRODUCT_NAME
+чихэр -X- _ I-PRODUCT_NAME
+бор -X- _ B-ADJ
+
+эмнэлгийн -X- _ B-PRODUCT_NAME
+тусламж -X- _ I-PRODUCT_NAME
+, -X- _ I-PRODUCT_NAME
+үйлчилгээ -X- _ I-PRODUCT_NAME
+
+энхжин -X- _ B-BRAND_NAME
+- -X- _ O
+дархлаа -X- _ B-ADJ
+сэргээх -X- _ I-ADJ
+цай -X- _ B-PRODUCT_NAME
+№20 -X- _ O
+/ -X- _ O
+мөнгөлөг -X- _ B-ADJ
+/ -X- _ O
+( -X- _ O
+монос -X- _ B-MISC
+хүнс -X- _ I-MISC
+хк -X- _ I-MISC
+) -X- _ O
+
+эфлоран -X- _ B-PRODUCT_NAME
+400мг -X- _ B-SIZE
+№10 -X- _ O
+( -X- _ O
+krka -X- _ O
+, -X- _ O
+tovarna -X- _ O
+zdravil -X- _ O
+, -X- _ O
+d.d -X- _ O
+) -X- _ O
+
+юби -X- _ O
+ваниль -X- _ B-PRODUCT_NAME
+0,5кг -X- _ B-SIZE
+
+ярианы -X- _ B-PRODUCT_NAME
+төлбөр -X- _ I-PRODUCT_NAME
+
+үзлэг -X- _ B-PRODUCT_NAME
+оношлогоо -X- _ I-PRODUCT_NAME
+
+үзэм -X- _ B-PRODUCT_NAME
+бамт -X- _ O
+
+үзэмт -X- _ B-PRODUCT_NAME
+
+үнэртүүлэгч -X- _ B-PRODUCT_NAME
+love -X- _ B-BRAND_NAME
+my -X- _ I-BRAND_NAME
+home -X- _ I-BRAND_NAME
+1 -X- _ O
+sh -X- _ O
+home -X- _ B-MISC
+fragrance -X- _ I-MISC
+
+үрэл -X- _ B-PRODUCT_NAME
+
+үсний -X- _ B-PRODUCT_NAME
+тос -X- _ I-PRODUCT_NAME
+20мл -X- _ B-SIZE
+( -X- _ O
+сибирийн -X- _ B-ADJ
+хуш -X- _ I-ADJ
+агуулсан -X- _ I-ADJ
+) -X- _ O
+*народные -X- _ O
+рецепты* -X- _ O
+1 -X- _ O
+/ -X- _ O
+15 -X- _ O
+
+үхрийн -X- _ B-PRODUCT_NAME
+тойгны -X- _ I-PRODUCT_NAME
+шөл -X- _ I-PRODUCT_NAME
+
+өг -X- _ B-ADJ
+үзэмтэй -X- _ I-ADJ
+еэвэн -X- _ B-PRODUCT_NAME
+
+өгөөж -X- _ B-BRAND_NAME
+mini -X- _ B-PRODUCT_NAME
+баялаг -X- _ I-PRODUCT_NAME
+
+өгөөж -X- _ B-BRAND_NAME
+жи -X- _ B-PRODUCT_NAME
+/ -X- _ I-PRODUCT_NAME
+еэвэн0,9гр -X- _ I-PRODUCT_NAME
+
+өгөөж -X- _ B-PRODUCT_NAME
+жимст -X- _ I-PRODUCT_NAME
+
+өд -X- _ B-PRODUCT_NAME
+10ш -X- _ B-SIZE
+
+өдөр -X- _ B-PRODUCT_NAME
+тутам -X- _ I-PRODUCT_NAME
+1114-bella -X- _ B-BRAND_NAME
+
+өег -X- _ B-BRAND_NAME
+кекс -X- _ B-PRODUCT_NAME
+450гр -X- _ B-SIZE
+/ -X- _ O
+жейл -X- _ O
+/ -X- _ O
+
+өег -X- _ B-PRODUCT_NAME
+хуурга -X- _ I-PRODUCT_NAME
+
+өлгүүр -X- _ B-PRODUCT_NAME
+3ш -X- _ B-SIZE
+
+өнгөлөгч -X- _ B-PRODUCT_NAME
+уруулын -X- _ I-PRODUCT_NAME
+flormar -X- _ B-BRAND_NAME
+deluxe -X- _ I-BRAND_NAME
+shine -X- _ I-BRAND_NAME
+5гр -X- _ B-SIZE
+гялалзуулна -X- _ O
+sls-33 -X- _ O
+tur -X- _ O
+
+өндгөн -X- _ B-PRODUCT_NAME
+шоколад -X- _ I-PRODUCT_NAME
+joy -X- _ B-BRAND_NAME
+
+өндөг -X- _ B-PRODUCT_NAME
+баян -X- _ B-BRAND_NAME
+цагаан -X- _ I-BRAND_NAME
+10ш -X- _ B-SIZE
+монгол -X- _ B-MISC
+нвц -X- _ I-MISC
+
+өнхрүүш -X- _ B-BRAND_NAME
+
+өргөст -X- _ B-PRODUCT_NAME
+хэмх -X- _ I-PRODUCT_NAME
+газар -X- _ B-BRAND_NAME
+шим -X- _ I-BRAND_NAME
+огурцы -X- _ O
+900мл -X- _ B-SIZE
+даршилсан -X- _ O
+монгол -X- _ O
+
+өргөө -X- _ B-BRAND_NAME
+талх -X- _ B-PRODUCT_NAME
+
+өрмөнцөр -X- _ B-PRODUCT_NAME
+loacker -X- _ B-BRAND_NAME
+classic -X- _ I-BRAND_NAME
+napolitaner -X- _ I-BRAND_NAME
+250гр -X- _ B-SIZE
+, -X- _ O
+шоколадтай -X- _ B-ADJ
+, -X- _ O
+итали -X- _ O
+019980 -X- _ O
+
+111001jarankhult -X- _ B-PRODUCT_NAME
+
+115002jimsteiiogurt4303 -X- _ B-PRODUCT_NAME
+
+117001zairmagtaktyerjati4700 -X- _ B-PRODUCT_NAME
+
+cever -X- _ B-BRAND_NAME
+ариутгагч -X- _ B-ADJ
+сальфетик -X- _ B-PRODUCT_NAME
+2021 -X- _ B-MISC
+n10 -X- _ I-MISC
+
+cheese -X- _ B-PRODUCT_NAME
+chicken -X- _ I-PRODUCT_NAME
+
+chicken -X- _ B-PRODUCT_NAME
+biryani -X- _ I-PRODUCT_NAME
+/ -X- _ O
+full -X- _ O
+/ -X- _ O
+
+жг -X- _ O
+- -X- _ O
+хай -X- _ B-BRAND_NAME
+хай -X- _ I-BRAND_NAME
+хүүхдийн -X- _ B-ADJ
+сүү -X- _ B-PRODUCT_NAME
+810гр -X- _ B-SIZE
+
+женщины -X- _ B-BRAND_NAME
+салат -X- _ B-PRODUCT_NAME
+
+жигнэмэг -X- _ B-PRODUCT_NAME
+mcvities -X- _ B-BRAND_NAME
+
+жигнэмэг -X- _ B-PRODUCT_NAME
+коровка -X- _ B-BRAND_NAME
+180гр -X- _ B-SIZE
+/ -X- _ O
+цэнхэр -X- _ O
+/ -X- _ O
+
+жижиг -X- _ B-ADJ
+луговое -X- _ B-PRODUCT_NAME
+
+жижүүр -X- _ B-PRODUCT_NAME
+
+жимс -X- _ B-PRODUCT_NAME
+en -X- _ O
+салад -X- _ O
+навч -X- _ O

@@ -1,0 +1,9 @@
+# Usage: pip install -r requirements.txt
+
+# Base 
+torch>=1.12.1
+flask
+spacy[cuda-autodetect,transformers,lookups]>=3.5.0
+
+# For serving
+gunicorn
