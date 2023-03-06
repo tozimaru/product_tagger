@@ -22,9 +22,9 @@ It should work with other version of CUDA, as long as your torch version support
 `pip install -r requirements.txt`
 
 ### Usage
-Download the pretrained spacy model with multilingual bert embedder from this [link](https://drive.google.com/file/d/1q5kw1_TtB48RfeWdO9wiJAYFiTMNQNCg/view?usp=share_link)
+Download the trained multilingual spacy model from this [link](https://drive.google.com/file/d/1HQNJZBaRLU4NpQXbLccF1GcdGP4jz9wf/view?usp=share_link)
 
-And extract under project root. If extracted elsewhere, use the argument `--model_dir <path-to-model>` when initializing `ner_engine.py`.
+And extract inside a directory name `output` under project root. If extracted elsewhere, just use the argument `--model_dir <path-to-model-directory>` when initializing `ner_engine.py`.
 
 Local server can be turned on `localhost:5001` by running `ner_engine.py`. For local usage, plain flask server should work fine. 
 
@@ -49,4 +49,4 @@ Run `python -m spacy train config.cfg --output ./output --paths.train ./corpus/t
 ### TODO
 
 * Batch processing
-* Train a production model with at least 3000 training data.
+* ~~Train a production model with at least 3000 training data.~~ New weights uploaded.
